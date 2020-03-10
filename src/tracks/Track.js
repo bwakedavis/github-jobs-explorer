@@ -12,7 +12,7 @@ function Track(props) {
     <strong>Track : {track.album_name}</strong>
                     </p>
 
-                    <Link to={`lyrcs/track/${track.track_id}`} className="btn btn-dark btn-block">View lyrics</Link>
+                    <Link to={`lyrics/track/${track.track_id}`} className="btn btn-dark btn-block">View lyrics</Link>
                 </div>
             </div>
         </div>

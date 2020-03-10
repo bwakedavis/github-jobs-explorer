@@ -17,7 +17,7 @@ export class Provider extends Component {
         this.setState({
             track_list:res.data.message.body.track_list
         })
-        console.log(res.data);
+        // console.log(res.data);
       })
       .catch(err => console.log(err));
   }
