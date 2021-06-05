@@ -1,0 +1,25 @@
+{
+  "name": "defi-wallet-yearn-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwakedavis/defi-wallet-yearn-integration.git"
+  },
+  "author": "Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwakedavis/defi-wallet-yearn-integration/issues"
+  },
+  "homepage": "https://github.com/bwakedavis/defi-wallet-yearn-integration#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0"
+  }
+}
